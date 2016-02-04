@@ -1,2 +1,2 @@
-this program compiles and runs java programs .
-to start just run test11.bat
+This program compiles and runs java programs .
+To start just run test11.bat
